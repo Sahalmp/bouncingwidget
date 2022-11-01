@@ -26,6 +26,16 @@ import the package
 
 
 ## Usage
+To use this package :
+
+add the dependency to your pubspec.yaml file.
+
+<code>
+dependencies:
+    flutter:
+      sdk: flutter
+    social_signin_buttons:
+</code>
 
 wrap your widget with this Bouncing Widget
 
@@ -35,6 +45,4 @@ BouncingWidget(child:Container(height:40,weight:40))
 
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+if any issue please report
