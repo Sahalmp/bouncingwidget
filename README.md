@@ -11,12 +11,12 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
- A package that helps you bounce your widget and gain an attention of users.
+ A package that helps you animate as bounce to your widget and gain an attention of users.
 
 ## Features
 
-Bounce animation 
-any widget
+* Bounce animation 
+* any widget
 
 
 ## Getting started

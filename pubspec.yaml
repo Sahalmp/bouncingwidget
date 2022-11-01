@@ -1,6 +1,6 @@
 name: bouncerwidget
-description: Bounce you widgets to get attention of users.
-version: 0.0.2
+description: A Flutter widget to Bounce and animate your widget to get attention of users. Show case your buttons containers as jumping.
+version: 0.0.4
 homepage: https://github.com/Sahalmp/bouncingwidget
 
 environment:

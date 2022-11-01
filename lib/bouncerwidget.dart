@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 class BouncingWidget extends StatefulWidget {
   const BouncingWidget({Key? key, required this.child}) : super(key: key);
   final Widget child;
+  // A widget to bounce widget and attract users
 
   @override
   State<BouncingWidget> createState() => _BouncingWidgetState();
