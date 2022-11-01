@@ -25,6 +25,7 @@ import the package
 
 
 
+
 ## Usage
 To use this package :
 
@@ -34,10 +35,18 @@ add the dependency to your pubspec.yaml file.
 dependencies:
     flutter:
       sdk: flutter
-    social_signin_buttons:
+    bouncerbutton:
 ```
 
 wrap your widget with this Bouncing Widget
+
+import the package
+
+```
+import 'package:bouncerwidget/bouncerwidget.dart';
+
+```
+Example
 
 ```
 BouncingWidget(
