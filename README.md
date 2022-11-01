@@ -35,7 +35,7 @@ add the dependency to your pubspec.yaml file.
 dependencies:
     flutter:
       sdk: flutter
-    bouncerbutton:
+    bouncerwidget:
 ```
 
 wrap your widget with this Bouncing Widget
