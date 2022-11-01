@@ -29,13 +29,14 @@ import the package
 To use this package :
 
 add the dependency to your pubspec.yaml file.
-
+<code>
 '''
 dependencies:
     flutter:
       sdk: flutter
     social_signin_buttons:
 '''
+ </code>
 
 wrap your widget with this Bouncing Widget
 
